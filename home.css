@@ -1,0 +1,45 @@
+
+
+
+body{
+  background-color: liner-gradient(120deg,#2980b9,#8e44ad);
+  padding: 80px;
+  margin: 80px;
+
+}
+html{
+padding:100px ;
+margin: 80px; ;
+}
+
+.header nav{
+  background-color: #2980b9;
+  color: aliceblue;
+
+}
+
+ h1{
+  color: rgb(29, 30, 32);
+  font-size: 50px;
+  float: inline-start;
+
+}
+
+
+
+.nav a{
+display: flex;
+color:rgb(41, 39, 39) ;
+float: right;
+margin-right: 10px;
+font-size: 20px;
+}
+
+h2{
+  float: left;
+  color: rgb(25, 22, 87);
+  margin-right:5000px ;
+  font-size:25px ;
+
+}
+

@@ -1,0 +1,27 @@
+
+p{
+  font-size: 25px;
+    background-color: aquamarine;
+
+}
+
+button{
+  background-color:rgb(0, 255, 128);
+
+} 
+.list{
+  font-size:25px;
+
+} 
+.button{
+display: flex;
+margin-right:20px ;
+border: radius 10px;
+margin:20px ;
+padding: 20px; ;
+
+}
+.ticker h2 p {
+  display: flex;
+  font-size:20px
+}
